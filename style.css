@@ -7,9 +7,9 @@
 }
 
 header {
-	background-color: salmon;
+	background-color: lightgreen;
 	padding: 40px 20px;
-	color: #555;
+	color: rgb(83, 83, 83);
 	position: relative;
 	z-index: 1;
 }
